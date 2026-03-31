@@ -31,7 +31,7 @@ The goal was to move beyond traditional manual collections by building an intell
 ## Project Structure
 
 Tata-iQ-GenAI-Data-Analytics-Forage/
-├── README.md                          ← Main project documentation (the one I gave you)
+├── README.md                          ← Main project documentation
 ├── LICENSE                            ← Optional (MIT or Apache)
 ├── requirements.txt                   ← List of Python packages
 ├── .gitignore                         ← Ignore unnecessary files
@@ -47,7 +47,7 @@ Tata-iQ-GenAI-Data-Analytics-Forage/
 │   ├── 01_EDA_Task1.ipynb
 │   ├── 02_Predictive_Modeling_Task2.ipynb
 │   ├── 03_Business_Recommendations_Task3.ipynb
-│   └── 04_Agent_Prototype.ipynb               ← (We'll add this later)
+│   └── 04_Agent_Prototype.ipynb               ← (I will add this later)
 │
 ├── reports/
 │   ├── Task1_EDA_Report.pdf
@@ -59,16 +59,8 @@ Tata-iQ-GenAI-Data-Analytics-Forage/
 │   ├── feature_importance.png
 │   └── confusion_matrix.png
 │
-├── presentation/
-│   └── Task4_Final_Presentation.pptx          ← Your final PowerPoint
-│
-├── src/                                       ← Python scripts (optional but professional)
-│   ├── data_preprocessing.py
-│   ├── modeling.py
-│   └── utils.py
-│
-└── assets/                                    ← Extra images, diagrams, etc.
-    └── system_architecture_diagram.png
+└── presentation/
+    └── Task4_Final_Presentation.pptx                                  
 
 ---
   
@@ -118,14 +110,6 @@ Tata-iQ-GenAI-Data-Analytics-Forage/
 - The value of **Agentic AI** and responsible AI design (guardrails, bias detection, human-in-the-loop)
 
 This simulation gave me hands-on experience in the full lifecycle of an AI project in financial services — from raw data to strategic automation.
-
----
-
-## 🔗 Links
-
-- **Final Presentation**: [Task 4 PowerPoint](presentation/)
-- **Full EDA Report**: [Task 1 Report](reports/)
-- **Model Performance**: See `notebooks/02_Predictive_Model_Task2.ipynb`
 
 ---
 
