@@ -120,5 +120,3 @@ I'm actively seeking opportunities in **Dtata Science, Data Analytics, AI/ML, an
 Feel free to connect if you're working on similar projects or have any feedback!
 
 ---
-
-**Made with ❤️ using GenAI collaboration and structured analytical thinking.**
