@@ -1,4 +1,9 @@
-# Tata iQ - GenAI Powered Data Analytics | Forage Virtual Experience
+> ⚠️ **Note:** This repository contains the original Forage job simulation 
+> (Tasks 1–4). It served as the foundation for a much more advanced system. 
+> For the full Agentic AI build — with reasoning, memory, ethical guardrails, 
+> and Streamlit deployment — see 👉 [CreditRiskAI-Agentic-Collections](https://github.com/fisayojiboye/CreditRiskAI-Agentic-Collections)
+
+> # Tata iQ - GenAI Powered Data Analytics | Forage Virtual Experience
 
 **Role**: AI Transformation Consultant  
 **Client**: Geldium Finance  
